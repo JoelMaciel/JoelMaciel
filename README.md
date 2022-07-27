@@ -1,8 +1,7 @@
 Olá,! Sou Joel Maciel Viana.<br>
-DEVELOPER FULL STACK JR
+DEVELOPER BACK-END JAVA JR.
 
-- 🔭 Hoje trabalho como FULLSTACK.
-- 🌱 Utilizando REACTJS, NODEJS e TYPESCRIPT
+- 🔭 Já trabalhei como FULLSTACK nas tecnologias ReactJS e NodeJS mas a minha paixão é JAVA / Spring 
 - 👯 Conhecimentos  em JAVA e SPRING FRAMEWORK
 <div align="center">
   <a href="https://github.com/JoelMaciel">
