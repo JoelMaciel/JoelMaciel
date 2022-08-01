@@ -1,7 +1,7 @@
 Olá,! Sou Joel Maciel Viana.<br>
 DEVELOPER BACK-END JAVA JR.
 
-- 🔭 Já trabalhei como FULLSTACK nas tecnologias ReactJS e NodeJS mas a minha paixão é JAVA / Spring 
+- 🔭 Já trabalhei como FULLSTACK nas tecnologias ReactJS e NodeJS mas meu foco no momento é JAVA / Spring / Microservies
 - 👯 Conhecimentos em JAVA , SPRING FRAMEWORK (Data, Security, Web, OAuth ... ), Microservices (Eureka, Api Gateway, cloud ), Docker, PostgreSQL, GitFlow.
 <div align="center">
   <a href="https://github.com/JoelMaciel">
