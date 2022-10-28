@@ -1,8 +1,23 @@
-Olá,! Sou Joel Maciel Viana.<br>
-DEVELOPER BACK-END JAVA JR.
+Hello,! I'm Joel Maciel Viana.<br>
+SOFTWARE DEVELOPER JAVA 
 
-- 🔭 Já trabalhei como FULLSTACK nas tecnologias ReactJS e NodeJS mas meu foco no momento é JAVA / Spring / Microservices
-- 👯 Conhecimentos em JAVA , SPRING FRAMEWORK (Data, Security, Web, OAuth ... ), Microservices (Eureka, Api Gateway, cloud ), Docker, PostgreSQL, GitFlow.
+- 🔭 Desenvolvedor JAVA disponível na modalidade PJ com exclusividade e em tempo integral.
+- 👯 Conhecimento em:
+- Java, Spring Boot, Programação Orientada à Objetos.
+- Arquitetura Monolítica.
+- Arquitetura de Microsserviços (Comunicação Síncrona e Assíncrona, API Composition Pattern, Registry 
+ Discovery Pattern, API Gateway, Circuit Breaker Pattern, Retry com Resilience4j, Event-Drive Pattern, State 
+ Transfer Pattern).
+- Noções de AWS , Integração Contínua : CI/CD, Pipelines, GitHub Actions 
+- Mensageria (RabbitMQ).
+- Docker, Maven , Swagger OpenAPI , GIT flow.
+- Modelo arquitetural REST, Consumo de APIs Web.
+- Testes Unitários e Integração ( JUnit5 , Mockito , MockBean).
+- Boas práticas : Clean Code.
+- Spring Security e OAuth2.
+- Bancos relacionais e não relacionais ( PostgreSQL , MySQL , MongoDB ).
+- Métodos ágeis (Scrum e Kanban).
+- CSS3 , HTML5 
 <div align="center">
   <a href="https://github.com/JoelMaciel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelMaciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
