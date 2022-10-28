@@ -1,23 +1,22 @@
 Hello,! I'm Joel Maciel Viana.<br>
 SOFTWARE DEVELOPER JAVA 
 
-- 🔭 Desenvolvedor JAVA disponível na modalidade PJ com exclusividade e em tempo integral.
-- 👯 Conhecimento em:
-- Java, Spring Boot, Programação Orientada à Objetos.
-- Arquitetura Monolítica.
-- Arquitetura de Microsserviços (Comunicação Síncrona e Assíncrona, API Composition Pattern, Registry 
- Discovery Pattern, API Gateway, Circuit Breaker Pattern, Retry com Resilience4j, Event-Drive Pattern, State 
+- 🔭 Knowledge in:
+- Java, Spring Boot, Object Oriented Programming.
+- Monolithic Architecture.
+- Microservices Architecture (Synchronous and Asynchronous Communication, Composition Pattern API, Registry
+ Discovery Pattern, API Gateway, Circuit Breaker Pattern, Retry with Resilience4j, Event-Drive Pattern, State
  Transfer Pattern).
-- Noções de AWS , Integração Contínua : CI/CD, Pipelines, GitHub Actions 
-- Mensageria (RabbitMQ).
-- Docker, Maven , Swagger OpenAPI , GIT flow.
-- Modelo arquitetural REST, Consumo de APIs Web.
-- Testes Unitários e Integração ( JUnit5 , Mockito , MockBean).
-- Boas práticas : Clean Code.
-- Spring Security e OAuth2.
-- Bancos relacionais e não relacionais ( PostgreSQL , MySQL , MongoDB ).
-- Métodos ágeis (Scrum e Kanban).
-- CSS3 , HTML5 
+- AWS notions, Continuous Integration: CI/CD, Pipelines, GitHub Actions
+- Messaging (RabbitMQ).
+- Docker, Maven, Swagger OpenAPI, GIT flow.
+- REST architectural model, Consumption of Web APIs.
+- Unit Testing and Integration ( JUnit5 , Mockito , MockBean).
+- Good practices: Clean Code.
+- Spring Security and OAuth2.
+- Relational and non-relational databases (PostgreSQL, MySQL, MongoDB).
+- Agile methods (Scrum and Kanban).
+- CSS3, HTML5
 <div align="center">
   <a href="https://github.com/JoelMaciel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelMaciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
