@@ -1,6 +1,35 @@
-## Hi, I'm Joel Maciel Viana.<br>
-### SOFTWARE DEVELOPER JAVA 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joel+Maciel;I'm+39+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoelMaciel&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=0000CD&text_color=c9d1d9&bg_color=0d1117" alt="Joel Maciel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelMaciel&layout=compact&hide_border=true&title_color=6495ED&text_color=FFFFFF&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoelMaciel&bg_color=292326&color=f1dd04&line=8089b7&point=8b2328&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoelMaciel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center"> 
+<a href="https://www.linkedin.com/in/joelmaciel-java-backend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:cmp.1a.jmviana37@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/maciel_viana00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.youtube.com/@joelmaciel123" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ </div>
+ 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoelMaciel}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
+ 
+ 
+### SOFTWARE DEVELOPER JAVA 
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
@@ -23,11 +52,9 @@
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
 </p>
 <p>email: jmviana37@gmail.com </p>
-
-
 <p>contact: (85) 999349728 </p>
 
-<p>.</p>
+<p>
 
 - 🔭 Knowledge in:
 - Java, Spring Boot, Object Oriented Programming.
@@ -39,18 +66,9 @@
 - Messaging (RabbitMQ).
 - Docker, Maven, Swagger OpenAPI, GIT flow..
 
-<div align="center">
-  <a href="https://github.com/JoelMaciel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelMaciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelMaciel&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  ##
   
   <div> 
-  <a href="https://www.linkedin.com/in/joelmaciel-java-backend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="http://api.whatsapp.com/send?phone=5585999349728" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/maciel_viana00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatojmviana37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
  
     
  
