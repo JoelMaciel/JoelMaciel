@@ -25,9 +25,9 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoelMaciel}/count.svg" /></p> 
 <br>
 </div>
-
-### SOFTWARE DEVELOPER JAVA 
+  
 ### 🚀 Languages and Tools:</summary>
+<br>
 
 <p align="left">
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
