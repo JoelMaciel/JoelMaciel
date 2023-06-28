@@ -54,14 +54,16 @@
 <p>
 
 - 🔭 Knowledge in:
-- Java, Spring Boot, Object Oriented Programming.
-- Monolithic Architecture.
-- Microservices Architecture (Synchronous and Asynchronous Communication, Composition Pattern API, Registry
- Discovery Pattern, API Gateway, Circuit Breaker Pattern, Retry with Resilience4j, Event-Drive Pattern, State
- Transfer Pattern).
-- AWS notions, Continuous Integration: CI/CD, Pipelines, GitHub Actions
-- Messaging (RabbitMQ).
-- Docker, Maven, Swagger OpenAPI, GIT flow..
+-   Arquitetura de Microsserviços
+-   Arquitetura Monolítica.
+-   Java 8+, Spring Boot, Maven , Persistência com JPA: Hibernate
+-   Orquestração de Containers: Kubernetes  , Docker    -     Design de APIs REST;
+-   CI/CD, Pipelines, GitHub Actions    -     Documentação de API's (OpenAPI);
+-   Mensageria (RabbitMQ)    -     Versionamento de código: GitHub
+-   Cloud AWS     -     Testes unitários (JUnit e Mockito).
+-   Spring Security, OAuth2, JWT     -      Boas práticas: Clean Code.
+-   Bancos de Dados Relacionais (PostgreSQL, MySQL)    -     Metodologia Ágil (Scrum).
+-   Angular, ReactJS , Javascript , NodeJS, HTML5 e CSS
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
  
