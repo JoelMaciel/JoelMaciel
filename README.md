@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joel+Maciel;I'm+Java+Developer;I'm+39+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joel+Maciel;I'm+Java+Developer;I'm+40+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoelMaciel&show_icons=true&count_private=true&hide_border=true&title_color=FF4500&icon_color=0000CD&text_color=c9d1d9&bg_color=0d1117" alt="Joel Maciel github stats" /> 
@@ -64,7 +64,7 @@
 -   Cloud AWS     -     Testes unitários (JUnit e Mockito).
 -   Spring Security, OAuth2, JWT     -      Boas práticas: Clean Code.
 -   Bancos de Dados Relacionais (PostgreSQL, MySQL)    -     Metodologia Ágil (Scrum).
--   Angular, ReactJS , Javascript , NodeJS, HTML5 e CSS
+-   Noções de : Angular, ReactJS , Javascript , NodeJS, HTML5 e CSS
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
  
