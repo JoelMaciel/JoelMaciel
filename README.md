@@ -50,21 +50,20 @@
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
 </p>
 <p>email: jmviana37@gmail.com </p>
-<p>contact: (85) 999349728 </p>
+<p>contact: +55 (85) 999349728 </p>
 
 <p>
 
 - 🔭 Knowledge in:
--   Arquitetura de Microsserviços
--   Arquitetura Monolítica.
--   Java 8+, Spring Boot, Maven , Persistência com JPA: Hibernate
--   Orquestração de Containers: Kubernetes  , Docker    -     Design de APIs REST;
--   CI/CD, Pipelines, GitHub Actions    -     Documentação de API's (OpenAPI);
--   Mensageria (RabbitMQ)    -     Versionamento de código: GitHub
--   Cloud AWS     -     Testes unitários (JUnit e Mockito).
--   Spring Security, OAuth2, JWT     -      Boas práticas: Clean Code.
--   Bancos de Dados Relacionais (PostgreSQL, MySQL)    -     Metodologia Ágil (Scrum).
--   Noções de : Angular, ReactJS , Javascript , NodeJS, HTML5 e CSS
+-    Microservices and Monolithic Architecture
+-    Java 8+, Spring Boot, Maven , Persistence with JPA: Hibernate
+-   Container orchestration:  Docker - REST API design;
+-   CI/CD, Pipelines, GitHub Actions - API documentation (OpenAPI);
+-   Messaging (RabbitMQ) - Code versioning: GitHub
+-   Cloud AWS - Unit tests (JUnit and Mockito).
+-   Spring Security, OAuth2, JWT - Good practices: Clean Code.
+-   Relational databases (PostgreSQL, MySQL) - Agile methodology (Scrum).
+- Notions of : Angular, ReactJS , Javascript , NodeJS, HTML5 and CSS
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
  
